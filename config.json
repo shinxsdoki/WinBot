@@ -1,0 +1,5 @@
+{
+    "token": "[PUT HERE A BOT TOKEN",
+    "admin_ids": [PUT HERE A YOU ID OR SOMEONE],
+    "allowed_roles": ["PUT HERE A ROLE NAME"]
+}
