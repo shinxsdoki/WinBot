@@ -58,7 +58,7 @@ async def pomoc(interaction: discord.Interaction):
         await interaction.response.send_message("❌ Brak uprawnień!", ephemeral=True)
         return
         
-    embed = discord.Embed(title="⚡ FSOCIETY CONTROL PANEL", color=0x00ff00)
+    embed = discord.Embed(title="⚡ WinBot CONTROL PANEL", color=0x00ff00)
     embed.description = "**Dostępne komendy:**\n\n"
     
     embed.add_field(name="🔧 System", 
